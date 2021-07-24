@@ -2,10 +2,10 @@ This repo has source code and steps for deploying sentence comparision function 
 
 # Files:
 function-source.zip
-We will uplaod this zip file to gloud function.
-This zip has main.py and requirements.txt file
+We will upload this zip file to gcloud function.
+This zip has main.py and requirements.txt file  <br/>
 
-main.py This file is for you reference and has the actual code for sentence comparision. 
+main.py This file is for you reference and has the actual code for sentence comparision.  <br/>
 
 requirements.txt This file has the required python packages and their version for cloud function environment. When cloud function getting deployed, it will install packages mentioned in this file.
 
